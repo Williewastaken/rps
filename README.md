@@ -29,10 +29,10 @@ python main.py
 
 ## How to Play
 
-    Run the game using the command above.
-    Enter your choice when prompted (rock, paper, or scissors).
-    The game will display the computer's choice and the result of the round (win, lose, or tie).
-    The score will be updated based on the result of the round.
+Run the game using the command above.
+Enter your choice when prompted (rock, paper, or scissors).
+The game will display the computer's choice and the result of the round (win, lose, or tie).
+The score will be updated based on the result of the round.
 
 ## Contributing
 

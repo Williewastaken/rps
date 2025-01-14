@@ -1,0 +1,7 @@
+// Step 1: Define user input for rock, paper, scissors using Python's input() function
+// Step 2: Generate computer choice using random.choice from random module
+// Step 3: Compare user and computer choices to determine winner
+// Step 4: Keep track of scores using variables
+// Step 5: Loop the game using a while loop until user decides to quit
+// Step 6: Handle invalid inputs with error messages and re-prompting
+// Step 7: Display final scores and declare overall winner
